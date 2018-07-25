@@ -1,6 +1,6 @@
 package choup.bonds;
 
-public class ZeroCouponBond {
+public class ZeroCouponBond implements Bond {
 
     private BondBasicInfo bondBasicInfo;
 

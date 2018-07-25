@@ -1,4 +1,7 @@
 package choup.bonds;
 
-public interface CouponInterestRate {
+public class CouponInterestRate {
+  
+  private Date couponDate;
+  
 }

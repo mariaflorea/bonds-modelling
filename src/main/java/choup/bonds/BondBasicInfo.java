@@ -15,5 +15,7 @@ public class BondBasicInfo {
     private String issuer;
 
     private List<MarketData> marketData;
+    
+    private String couponFrequency;
 
 }
